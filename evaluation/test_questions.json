@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is a pointer in C?",
+    "relevant_pages": [1]
+  },
+  {
+    "question": "What is malloc used for?",
+    "relevant_pages": [1]
+  }
+]
